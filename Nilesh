@@ -4,3 +4,5 @@ Ename varchar(10),
 salary int
 );
 insert into Emp values(1,'Nilesh',20000);
+
+insert into Emp values(2,'Shubham',30000);
