@@ -6,3 +6,5 @@ salary int
 insert into Emp values(1,'Nilesh',20000);
 
 insert into Emp values(2,'Shubham',30000);
+
+insert into Emp values(3,'Kedar',40000);
